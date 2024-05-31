@@ -35,3 +35,13 @@ row_item {
 
     padding: 10px;
 }
+
+item_title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+item_description {
+    font-weight: 200;
+    font-size: 12px;
+}
