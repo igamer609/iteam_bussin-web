@@ -12,6 +12,11 @@ header {
     font-style: italic;
 }
 
+subheader {
+    font-weight: 600;
+    font-size: 36px;
+}
+
 row_list {
     align-items: center;
     direction: row;
@@ -59,8 +64,11 @@ column_item {
 }
 
 column_item_details {
+    align-items: center;
     direction: column;
-    padding: 10px;
+
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 item_title {
