@@ -1,8 +1,13 @@
-title_bar {
-    background-color: "#262626";
-
+introduction {
     direction: column;
     align-items: center;
-    
-    padding: 10px;
+
+    gap: 10;
+    margin-bottom: 40px;
+}
+
+header {
+    font-size: 48px;
+    font-weight: ultralight;
+    font-style: italic;
 }
