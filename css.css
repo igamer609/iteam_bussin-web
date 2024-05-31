@@ -80,3 +80,7 @@ item_description {
     font-weight: 200;
     font-size: 12px;
 }
+
+hr {
+    padding: 40px;
+}
