@@ -59,6 +59,7 @@ column_item {
 }
 
 column_item_details {
+    direction: column;
     padding: 10px;
 }
 
