@@ -9,10 +9,7 @@ introduction {
 header {
     font-weight: bold;
     font-size: 42px;
-    font-weight: ultralight;
     font-style: italic;
-
-    align-items: center;
 }
 
 row_list {
