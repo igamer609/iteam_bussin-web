@@ -21,8 +21,8 @@ row_list {
 
     gap: 40;
     
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 row_item {
@@ -31,7 +31,7 @@ row_item {
 
     border-color: "#666666";
     border-width: 4px;
-    border-radius: 20%;
+    border-radius: 20px;
 
     padding: 10px;
 }
