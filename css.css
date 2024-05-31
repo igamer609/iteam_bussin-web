@@ -1,5 +1,7 @@
-.title_bar {
+title_bar {
     background-color: "#262626";
+
+    direction: column;
     align-items: center;
     
     padding: 10px;
