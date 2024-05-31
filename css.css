@@ -26,7 +26,9 @@ row_item {
     align-items: center;
     direction: column;
 
-    border-color: "#666666";
+    margin: 30px;
+
+    border-color: "#666";
     border-width: 4px;
     border-radius: 20px;
 
