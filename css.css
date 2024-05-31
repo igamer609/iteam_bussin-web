@@ -18,8 +18,8 @@ row_list {
 
     gap: 40;
     
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 row_item {
@@ -28,10 +28,37 @@ row_item {
 
     margin: 30px;
 
-    border-color: "#666";
+    border-color: gray;
     border-width: 4px;
     border-radius: 20px;
 
+    padding: 10px;
+}
+
+column_list {
+    align-items: center;
+    direction: column;
+    
+    gap: 40;
+    
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+column_item {
+    align-items: center;
+    direction: row;
+
+    margin: 30px;
+    
+    border-color: gray;
+    border-width: 4px;
+    border-radius: 20px;
+    
+    padding: 10px;
+}
+
+column_item_details {
     padding: 10px;
 }
 
