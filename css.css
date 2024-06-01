@@ -113,6 +113,14 @@ button {
     font-weight: 600;
 }
 
+centered {
+    align-items: center;
+}
+
+column {
+    direction: column;
+}
+
 custom_button {
     background-color: #7aeaea;
 
