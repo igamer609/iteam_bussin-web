@@ -69,6 +69,8 @@ column_item_details {
 
     padding-left: 40px;
     padding-right: 40px;
+
+    gap: 20;
 }
 
 item_title {
