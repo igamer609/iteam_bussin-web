@@ -81,6 +81,11 @@ item_description {
     font-size: 12px;
 }
 
+item_description_small {
+    font-weight: 100;
+    font-size: 8px;
+}
+
 hr {
     padding: 40px;
 }
