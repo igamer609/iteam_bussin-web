@@ -33,12 +33,11 @@ row_item {
 
     margin: 30px;
 
-    border-color: #808080;
-    background-color: #808080;
+    border-color: #484845;
     border-width: 4px;
     border-radius: 20px;
 
-    padding: 20px;
+    padding: 25px;
 
 }
 
@@ -58,12 +57,11 @@ column_item {
 
     margin: 30px;
     
-    border-color: #808080;
-    background-color: #808080;
+    border-color: #484845;
     border-width: 4px;
     border-radius: 20px;
     
-    padding: 10px;
+    padding: 30px;
 }
 
 column_item_details {
