@@ -33,11 +33,13 @@ row_item {
 
     margin: 30px;
 
-    border-color: gray;
+    border-color: #808080;
+    background-color: #808080;
     border-width: 4px;
     border-radius: 20px;
 
-    padding: 10px;
+    padding: 20px;
+
 }
 
 column_list {
@@ -56,7 +58,8 @@ column_item {
 
     margin: 30px;
     
-    border-color: gray;
+    border-color: #808080;
+    background-color: #808080;
     border-width: 4px;
     border-radius: 20px;
     
@@ -70,7 +73,7 @@ column_item_details {
     padding-left: 40px;
     padding-right: 40px;
 
-    gap: 20;
+    gap: 70;
 }
 
 item_title {
