@@ -1,15 +1,14 @@
 header {
     direction: row;
-    align-items: fill;
+    align-items: center;
 
     gap: 30;
 
     background-color: #111111;
 
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-right: 30px;
-    padding-left: 30px;
+    padding: 30px;
+
+    border-radius: 10px;
 }
 
 hero {
