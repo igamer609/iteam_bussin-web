@@ -1,4 +1,4 @@
-header {
+h {
     direction: row;
     align-items: center;
 
@@ -7,6 +7,7 @@ header {
     background-color: #111111;
 
     padding: 30px;
+    padding-right: 10px;
 
     border-radius: 10px;
 }
@@ -118,8 +119,17 @@ centered_div {
     gap: 60;
 }
 
-fill_div {
+f {
+    direction: row;
     align-items: fill;
+
+    gap: 60;
+
+    background-color: #111111;
+
+    padding: 30px;
+
+    border-radius: 10px;
 }
 
 custom_button {
@@ -130,4 +140,9 @@ custom_button {
     
     color: #ffffff;
     underline: none;
+}
+
+header_left_div {
+    align-items: end;
+    gap: 60;
 }
