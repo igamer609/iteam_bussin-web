@@ -89,3 +89,9 @@ item_description_small {
 hr {
     padding: 40px;
 }
+
+button {
+    padding: 20px;
+    width: 70px;
+    height: 40px;
+}
