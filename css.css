@@ -33,7 +33,7 @@ row_item {
 
     margin: 30px;
 
-    border-color: #484845;
+    background-color: #424242;
     border-width: 4px;
     border-radius: 20px;
 
@@ -57,7 +57,7 @@ column_item {
 
     margin: 30px;
     
-    border-color: #484845;
+    background-color: #424242;
     border-width: 4px;
     border-radius: 20px;
     
