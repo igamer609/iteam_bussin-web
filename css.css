@@ -112,3 +112,13 @@ button {
     font-size: 14px;
     font-weight: 600;
 }
+
+custom_button {
+    background-color: #7aeaea;
+
+    padding: 40px;
+    border-radius: 10px;
+    
+    color: #ffffff;
+    underline: none;
+}
