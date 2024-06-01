@@ -109,13 +109,17 @@ hr {
 }
 
 button {
-    font-size: 14px;
+    font-size: 32px;
     font-weight: 600;
 }
 
-centered {
+centered_div {
     align-items: center;
     gap: 60;
+}
+
+fill_div {
+    align-items: fill;
 }
 
 custom_button {
