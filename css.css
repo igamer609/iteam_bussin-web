@@ -49,9 +49,9 @@ row_item {
 
     margin: 30px;
 
-    background-color: #424242;
+    background-color: #2f2f2f;
     border-width: 4px;
-    border-radius: 20px;
+    border-radius: 15px;
 
     padding: 25px;
 
@@ -73,9 +73,9 @@ column_item {
 
     margin: 30px;
     
-    background-color: #424242;
+    background-color: #2f2f2f;
     border-width: 4px;
-    border-radius: 20px;
+    border-radius: 15px;
     
     padding: 30px;
 }
@@ -109,8 +109,8 @@ hr {
     padding: 40px;
 }
 
-button {
-    font-size: 32px;
+header_button {
+    font-size: 16px;
     font-weight: 600;
 }
 
@@ -145,4 +145,5 @@ custom_button {
 header_left_div {
     align-items: end;
     gap: 60;
+    padding-left: 600px;
 }
